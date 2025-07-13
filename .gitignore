@@ -20,7 +20,7 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-
+.envrc
 # Go workspace file
 go.work
 
